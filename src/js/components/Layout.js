@@ -4,7 +4,7 @@ export default class Layout extends React.Component{
   render(){
     return(
 
-        <h1>Jim</h1>
+        <h1>This is Jim</h1>
 
     );
   }
